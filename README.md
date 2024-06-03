@@ -1,4 +1,15 @@
 ## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é Ray Prudencia da Silva
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+00001118883743sp@al.educacao.sp.gov.br
+
+@ray_prudencia
+
 
 <!--
 **RayPrudencia2901/RayPrudencia2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
